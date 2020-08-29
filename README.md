@@ -11,8 +11,7 @@ My name is Maksym Kravchenko. I am a beginner Android developer from Ukraine. Al
 
 # Activity
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=masssimeliano&show_icons=true&theme=tokyonight" alt="abhisheknaiidu" />
-<p align="left"> <img align="left" width="300" height="195" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">  
+<img src="https://github-readme-stats.vercel.app/api?username=masssimeliano&show_icons=true&theme=tokyonight" alt="abhisheknaiidu" /> <img height="195" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
 
 # Contacts

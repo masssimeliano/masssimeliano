@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-My name is Maksym Kravchenko. I am a beginner Java and Android developer from Ukraine. Also, I am ready for new collaborations 🙃
+My name is Maksym Kravchenko. I am a beginner Java and Android developer from Ukraine.
 
 
 # Languages & Tools 

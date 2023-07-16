@@ -7,7 +7,7 @@ My passion is working on new and interesting projects in the back-end.
 Open to new challenges :triangular_flag_on_post:
 
 ## Skills and Experience
-* :coffee: Java, Android (Intermediate)
+* :coffee: Java, Kotlin, Android (Intermediate)
 * :computer: SQL, HTML, CSS, JavaScript, TypeScript, Angular (Novice)
 
 ## Examples of Work

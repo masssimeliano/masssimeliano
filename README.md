@@ -2,7 +2,7 @@
 
 # Maksym Kravchenko
 I'm Maksym from Germany. 
-I am developing applications and services in Java. 
+I like to develop applications and services in Java. 
 My passion is working on new and interesting projects in the back-end. 
 Open to new challenges :triangular_flag_on_post:
 

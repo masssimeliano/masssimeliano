@@ -1,16 +1,14 @@
-### Hello there! 👋
+![Development]()
 
-My name is Maksym Kravchenko. I am a beginner Java and Android developer from Ukraine.
+# Maksym Kravchenko
+I'm Maksym from Germany. 
+I am developing applications and services in Java. 
+My passion is working on new and interesting projects in the back-end. 
+Open to new challenges :triangular_flag_on_post:
 
+## Skills and Experience
+* :coffee: Java, Android (Intermediate)
+* :computer: SQL, HTML, CSS, JavaScript, TypeScript, Angular (Novice)
 
-# Languages & Tools 
-
-<code><img height="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-
-
-# Contacts
-
-**Gmail - maksimkravchenkoukraine@gmail.com**
-
-
+## Examples of Work
+<img src="" width="512" >

@@ -7,6 +7,3 @@ Open to new challenges :triangular_flag_on_post:
 ## Skills and Experience
 * :coffee: Java, Kotlin, Android (Intermediate)
 * :computer: SQL, HTML, CSS, JavaScript, TypeScript, Angular (Novice)
-
-## Examples of Work
-<img src="" width="512" >

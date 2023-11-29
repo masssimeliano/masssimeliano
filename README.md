@@ -1,5 +1,3 @@
-![Development]()
-
 # Maksym Kravchenko
 I'm Maksym from Germany. 
 I like to develop applications and services in Java. 

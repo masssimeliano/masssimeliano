@@ -1,9 +1,3 @@
-# 💫 About Me
-🔭 I’m currently working on an Android weather forecast app<br>
-👯 I’m looking forward to collaborate<br>
-🌱 I’m currently learning Java Core<br>
-
-
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maksym-kravchenko-1994ba235) 
 [![Telegram](https://img.shields.io/badge/-Telegram-red?color=blue&logo=telegram&logoColor=white)](https://t.me/masssimeliano)

@@ -2,7 +2,6 @@
 🔭 I’m currently working on an Android weather forecast app<br>
 👯 I’m looking forward to collaborate<br>
 🌱 I’m currently learning Java Core<br>
-⚡ Fun fact: Drinking more coffee than sleeping
 
 
 ## 🌐 Socials
